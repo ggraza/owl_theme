@@ -1,6 +1,6 @@
 ### Owl Theme
 
-\"Take full control of your Frappe/ERPNext branding. Customize backgrounds, logos, and colors with ease.\"
+ Take full control of your Frappe/ERPNext branding. Customize backgrounds, logos, and colors with ease.
 
 ### Installation
 
@@ -8,7 +8,7 @@ You can install this app using the [bench](https://github.com/frappe/bench) CLI:
 
 ```bash
 cd $PATH_TO_YOUR_BENCH
-bench get-app $URL_OF_THIS_REPO --branch main
+bench get-app $URL_OF_THIS_REPO --branch develop
 bench install-app owl_theme
 ```
 
@@ -37,4 +37,4 @@ This app can use GitHub Actions for CI. The following workflows are configured:
 
 ### License
 
-gpl-3.0
+mit

@@ -3,11 +3,11 @@ name: CI
 on:
   push:
     branches:
-      - main
+      - develop
   pull_request:
 
 concurrency:
-  group: main-owl_theme-${{ github.event.number }}
+  group: develop-owl_theme-${{ github.event.number }}
   cancel-in-progress: true
 
 jobs:

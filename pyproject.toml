@@ -3,7 +3,7 @@ name = "owl_theme"
 authors = [
     { name = "tahirzaqout", email = "tahir.a.zaqout@gmail.com"}
 ]
-description = ""Take full control of your Frappe/ERPNext branding. Customize backgrounds, logos, and colors with ease.""
+description = " Take full control of your Frappe/ERPNext branding. Customize backgrounds, logos, and colors with ease."
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
