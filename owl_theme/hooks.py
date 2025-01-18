@@ -1,7 +1,7 @@
 app_name = "owl_theme"
 app_title = "Owl Theme"
 app_publisher = "tahirzaqout"
-app_description = " Take full control of your Frappe/ERPNext branding. Customize backgrounds, logos, and colors with ease."
+app_description = "Take full control of your Frappe/ERPNext app. Customize backgrounds, logos, and colors with ease."
 app_email = "tahir.a.zaqout@gmail.com"
 app_license = "mit"
 
