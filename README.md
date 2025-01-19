@@ -12,21 +12,26 @@ bench get-app $URL_OF_THIS_REPO --branch develop
 bench install-app owl_theme
 ```
 
-### Contributing
+### ScreenShots
+===================================================
+## Owl Theme Settings (DocType).
+![doctype](https://github.com/user-attachments/assets/0df19627-6c3c-425e-a19f-27b58e34d704)
+---------------------------------------------------
+## HomePage.
+![doctype](https://github.com/user-attachments/assets/47c4a757-40ba-4cc2-bf5e-19342a173a2b)
 
-This app uses `pre-commit` for code formatting and linting. Please [install pre-commit](https://pre-commit.com/#installation) and enable it for this repository:
+---------------------------------------------------
 
-```bash
-cd apps/owl_theme
-pre-commit install
-```
+## List View.
+![listview](https://github.com/user-attachments/assets/68a626cc-56a5-4823-92af-3a70bbb1fb29)
 
-Pre-commit is configured to use the following tools for checking and formatting your code:
+---------------------------------------------------
 
-- ruff
-- eslint
-- prettier
-- pyupgrade
+## Form .
+![formpage](https://github.com/user-attachments/assets/889acfaa-b3eb-4598-ad04-feebd29727bd)
+
+---------------------------------------------------
+
 ### CI
 
 This app can use GitHub Actions for CI. The following workflows are configured:
