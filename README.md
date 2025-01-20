@@ -18,7 +18,8 @@ bench install-app owl_theme
 ![doctype](https://github.com/user-attachments/assets/0df19627-6c3c-425e-a19f-27b58e34d704)
 ---------------------------------------------------
 ## HomePage.
-![doctype](https://github.com/user-attachments/assets/47c4a757-40ba-4cc2-bf5e-19342a173a2b)
+![homepage](https://github.com/user-attachments/assets/f2b3491a-bee2-487f-b98c-ad2f41e05ef6)
+
 
 ---------------------------------------------------
 
