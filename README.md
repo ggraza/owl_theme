@@ -44,3 +44,10 @@ This app can use GitHub Actions for CI. The following workflows are configured:
 ### License
 
 mit
+
+
+### Important Note
+
+This app is actively maintained, and new updates will be released regularly. Don’t forget to ⭐️ the repository to show your support! Pull requests from developers are highly encouraged.
+
+Cheers! 🚀
